@@ -3,7 +3,7 @@ const __DATA__ = {
         'title' : 'Các liên kết của tôi',
         'favicon' : 'avatar.jpg',
     },
-    'cover-image' : 'Mt.FujiJapan-day.gif',
+    'cover-image' : 'ItsukishimaGateJapan-day.gif',
     'avatar-image' : 'avatar2.jpg',
     'name' : 'Trương Đăng Dương', 
     'skills' : [
@@ -33,10 +33,10 @@ const __DATA__ = {
             'type' : 0,
         },
         {
-            'image' : 'tiktok.jpg',
-            'title' : 'Tiktok', 
-            'show-value' : '@tiktok_official',
-            'value' : 'https://www.instagram.com/dark_x_d/',
+            'image' : 'youtube.jpg',
+            'title' : 'Youtube', 
+            'show-value' : 'PandaCS',
+            'value' : 'https://www.youtube.com/channel/UCzwCxNJIwlVmkRI6Mjohq1g',
             'type' : 0,
         },
         {
